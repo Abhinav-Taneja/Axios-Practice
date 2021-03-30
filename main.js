@@ -55,7 +55,7 @@ function getTodos() {
   
   // SIMULTANEOUS DATA
   function getData() {
-    console.log('Simultaneous Request');
+    //console.log('Simultaneous Request');
   }
   
   // CUSTOM HEADERS
